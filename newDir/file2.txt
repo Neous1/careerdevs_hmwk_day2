@@ -1,1 +1,3 @@
 this file is in the new directory
+
+another edit after merging branch1 to master
